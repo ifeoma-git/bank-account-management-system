@@ -1,0 +1,6 @@
+100: 123000: Katty
+102: 120: Manuel
+123: 1000: Rose
+120: 50: Katty
+150: 10: Manuel
+170: 1: Jimmy
